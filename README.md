@@ -1,2 +1,2 @@
-# testrepo for sujit
+# testrepo
 repository created for EDX github learning  
